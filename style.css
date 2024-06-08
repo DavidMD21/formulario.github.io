@@ -1,0 +1,17 @@
+ .btn{
+ 	    display: inline-block;
+ 		background-color: darkseagreen;
+        margin: 25px;
+        padding: 30px;
+
+ }
+
+ .btn2{
+           display: inline-block;
+              background-color: lightblue;
+        margin: 25px;
+        padding: 30px;
+ }
+ h1{
+       color:darkblue;
+ }
